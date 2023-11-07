@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/VideoCompress)
+
 # VideoCompress
 ![GitHub Repo stars](https://img.shields.io/github/stars/AbirHasan2005/VideoCompress?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/AbirHasan2005/VideoCompress?color=green&style=flat)
